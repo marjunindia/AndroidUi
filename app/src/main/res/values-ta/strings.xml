@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidUI</string>
+    <string name="red">சிவப்பு</string>
+    <string name="green">பச்சை</string>
+    <string name="blue">நீல</string>
+</resources>

@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">AndroidUI</string>
     <string name="hello">Hello %s</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+
+
+
+
     <string name="longtext">This course helps developers who want to build applications working in the background, by exposing you to using Android Background Service capabilities effectively. Services come out as the best option with backward app compatibility.
 
 You will learn a variety of topics like starting and stopping your service, interacting with the background service and creating and sending a work request, exploring the lifecycle of your service along with understanding the security issues in using it. You will learn to use IntentService, which utilizes a worker or background thread to execute tasks. You will explore what’s new in the Background Service in Android Oreo and check out its limitations, and then overcome those limitations. You will then learn best practices and how to deal with problems and issues that might arise
